@@ -2,3 +2,4 @@ zap.yaml
 output
 
 **/DS_Store
+**/context/*.context
